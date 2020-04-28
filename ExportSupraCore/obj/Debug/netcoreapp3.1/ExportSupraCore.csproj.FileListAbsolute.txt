@@ -1,0 +1,13 @@
+D:\SupraCore\ExportSupraCore\ExportSupraCore\bin\Debug\netcoreapp3.1\ExportSupraCore.exe
+D:\SupraCore\ExportSupraCore\ExportSupraCore\obj\Debug\netcoreapp3.1\ExportSupraCore.AssemblyInfoInputs.cache
+D:\SupraCore\ExportSupraCore\ExportSupraCore\obj\Debug\netcoreapp3.1\ExportSupraCore.AssemblyInfo.cs
+D:\SupraCore\ExportSupraCore\ExportSupraCore\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\SupraCore\ExportSupraCore\ExportSupraCore\obj\Debug\netcoreapp3.1\ExportSupraCore.csproj.CopyComplete
+D:\SupraCore\ExportSupraCore\ExportSupraCore\bin\Debug\netcoreapp3.1\ExportSupraCore.deps.json
+D:\SupraCore\ExportSupraCore\ExportSupraCore\bin\Debug\netcoreapp3.1\ExportSupraCore.runtimeconfig.json
+D:\SupraCore\ExportSupraCore\ExportSupraCore\bin\Debug\netcoreapp3.1\ExportSupraCore.runtimeconfig.dev.json
+D:\SupraCore\ExportSupraCore\ExportSupraCore\bin\Debug\netcoreapp3.1\ExportSupraCore.dll
+D:\SupraCore\ExportSupraCore\ExportSupraCore\bin\Debug\netcoreapp3.1\ExportSupraCore.pdb
+D:\SupraCore\ExportSupraCore\ExportSupraCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\SupraCore\ExportSupraCore\ExportSupraCore\obj\Debug\netcoreapp3.1\ExportSupraCore.dll
+D:\SupraCore\ExportSupraCore\ExportSupraCore\obj\Debug\netcoreapp3.1\ExportSupraCore.pdb
